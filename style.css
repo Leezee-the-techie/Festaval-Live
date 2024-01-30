@@ -1,0 +1,1171 @@
+.nightlive2023{
+    height: 700px;
+    width: 100%;
+    /* background-color: grey; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    /* background-image: url('images/edward-unsplash-blur.jpg');
+    background-size: cover; */
+}
+
+.yellow{
+    height: 60px;
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+}
+.p-1{
+    font-size: 20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+}
+.menu{
+    height: 50px;
+    width: 100%;
+    /* background-color: goldenrod;  */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: -70px;
+}
+.festavalive{
+    height: 30px;
+    width: 300px;
+    /* background-color: black; */
+}
+.p-2{
+    font-size: 25px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.home{
+    height: 30px;
+    width: 100px;
+    /* background-color: green; */
+}
+.p-3{
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.about{
+    height: 30px;
+    width: 100px;
+    /* background-color: yellow; */
+}
+.p-4{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.artists{
+    height: 30px;
+    width: 100px;
+    /* background-color: red; */
+}
+.p-5{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.schedule{
+    height: 30px;
+    width: 100px;
+    /* background-color: blanchedalmond; */
+}
+.p-6{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.pricing{
+    height: 30px;
+    width: 100px;
+    /* background-color: greenyellow; */
+}
+.p-7{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.contact{
+    height: 30px;
+    width: 100px;
+    /* background-color: burlywood; */
+}
+.p-8{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.buyticket{
+    height: 30px;
+    width: 100px;
+    background-color: brown; 
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.p-9{
+    font-size: 15px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nl2023{
+    height: 150px;
+    width: 900px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.one{
+    height: 50px;
+    width: 300px;
+    /* background-color: black; */
+}
+h3{
+    font-size: 15px;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    
+}
+.two{
+    height: 90px;
+    width: 900px;
+    /* background-color: green; */
+    
+}
+.p-10{
+    font-size: 45px;
+    color: white;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    text-align: center; 
+}
+.letsbegin{
+    height: 50px;
+    width: 150px;
+    background-color: brown;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.p-11{
+    font-size: 15px;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: bold;
+}
+.dates{
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.december{
+    height: 50px;
+    width: 300px;
+    /* background-color: brown; */
+    border-radius: 50px;
+}
+.p-12{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: bold;
+}
+.nationalcentre{
+    height: 50px;
+    width: 300px;
+    /* background-color: brown; */
+    border-radius: 50px;
+}
+.p-13{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: bold;
+}
+.share{
+    height: 50px;
+    width: 200px;
+    /* background-color: brown; */
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.firstcircle{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 100px;
+}
+.secondcircle{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 100px;
+}
+.thirdcircle{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 100px;
+}
+.p-14{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+.aboutfestava{
+    height: 500px;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url('images/edward-unsplash-blur.jpg');
+    background-size: cover;
+}
+.box1{
+    height: 350px;
+    width: 600px;
+    /* background-color: white; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.step1{
+    height: 70px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-15{
+    font-size: 50px;
+    color: white;
+    font-family: serif;
+    font-weight: bolder; 
+}
+.step2{
+    height: 70px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-16{
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman'; 
+    font-weight: lighter;
+    line-height: 22px;
+}
+.step3{
+    height: 30px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-17{
+    font-size: 25px;
+    color: white;
+    font-family: serif; 
+    font-weight: bold; 
+}
+.step4{
+    height: 50px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-18{
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman'; 
+    font-weight: lighter; 
+}
+.step5{
+    height: 40px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-19{
+    font-size: 25px;
+    color: white;
+    font-family: serif; 
+    font-weight: bold;   
+}
+.step6{
+    height: 30px;
+    width: 550px;
+    /* background-color: burlywood; */
+}
+.p-20{
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman'; 
+    font-weight: lighter; 
+}
+
+.box2{
+    height: 350px;
+    width: 500px;
+    /* background-color: green; */
+    border-radius: 30px;
+    background-image: url('images/pexels-alexander-suhorucov-6457579.jpg');
+}
+.moment{
+    height: 150px;
+    width: 450px;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 185px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.acircle{
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    border-radius: 150px;
+}
+.abox{
+    height: 80px;
+    width: 350px;
+    /* background-color: grey; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.happymoment{
+    height: 50px;
+    width: 350px;
+    /* background-color: black; */
+}
+.p-21{
+    font-size: 30px;
+    color: black;
+    font-family: serif; 
+    font-weight: bold;  
+}
+.moment2{
+    height: 30px;
+    width: 350px;
+    /* background-color: black; */
+}
+.p-22{
+    font-size: 15px;
+    color: grey;
+    font-family: 'Times New Roman'; 
+    font-weight: lighter;  
+}
+.blank{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+.meetartists{
+    height: 80px;
+    width: 300px;
+    background-color: white;
+    margin: 0 auto;
+}
+.p-23{
+    font-size: 45px;
+    color: black;
+    font-family: serif; 
+    font-weight: bold;
+    text-align: center;  
+}
+.artistspictures{
+    height: 700px;
+    width: 930px;
+    /* background-color: blanchedalmond; */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.thefirst{
+    height: 700px;
+    width: 450px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    background-image: url('images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+    background-size: cover;
+}
+.thesecond{
+    height: 650px;
+    width: 450px;
+    /* background-color: gold; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.half{
+    height: 310px;
+    width: 450px;
+    /* background-color: grey; */
+    border-radius: 30px; 
+    background-image: url('images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+    background-size: cover;
+}
+.andhalf{
+    height: 310px;
+    width: 450px;
+    background-color: grey;
+    border-radius: 30px; 
+    background-image: url('images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg'); 
+    background-size: cover;
+}
+.blank1{
+    height: 110px;
+    width: 100%;
+    background-color: white;
+}
+.bigbox{
+    height: 1150px;
+    width: 100%;
+    /* background-color: grey; */
+    background-image: url('images/nicholas-green-unsplash-blur.jpg');
+    background-size: cover;
+}
+.heading{
+    height: 150px;
+    width: 500px;
+    /* background-color: black; */
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+.p-24{
+    font-size: 35px;
+    font-family:  sans-serif;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top:70px;
+    left: 120px;
+}
+.boxes{
+    height: 850px;
+    width: 1200px;
+    /* background-color: gold; */
+    margin: 0 auto;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.b1{
+    height: 100px;
+    width: 1200px;
+    background-color: orangered;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.date{
+    height: 100px;
+    width: 150px;
+    background-color: orangered;
+    border-top-left-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.date p{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.wednesday{
+    height: 100px;
+    width: 400px;
+    background-color: orangered;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.wednesday p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.thursday{
+    height: 100px;
+    width: 290px;
+    background-color: orangered;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.thursday p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.friday{
+    height: 100px;
+    width: 350px;
+    background-color: orangered;
+    border-top-right-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.friday p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.b2{
+    height: 250px;
+    width: 1200px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.firstb2{
+    height: 250px;
+    width: 150px;
+    background-color: gray;
+}
+.firstb2 p{
+    font-size: 18px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+}
+.secondb2{
+    height: 250px;
+    width: 400px;
+    background-color: orange; 
+    background-image: url('images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+    background-size: cover;
+    text-align: center;
+}
+.secondb2 p{
+    font-size: 30px;
+    color: white;
+}
+.secondb2 span{
+    font-size: 18px;
+}
+.thirdb2{
+    height: 250px;
+    width: 300px;
+    background-color: thistle;  
+}
+.fourthb2{
+    height: 250px;
+    width: 350px;
+    background-color: red; 
+    background-image: url('images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+    background-size: cover;
+    text-align: center;
+}
+.fourthb2 p{
+    font-size: 30px;
+    color: white;
+}
+.fourthb2 span{
+    font-size: 18px;
+}
+.b3{
+    height: 250px;
+    width: 1200px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.firstb3{
+    height: 250px;
+    width: 150px;
+    background-color: grey;
+    text-align: center;
+}
+.firstb3 p{
+    font-size: 18px;
+    color: white;
+    font-family: serif;
+    text-align: center;
+    font-weight: bold;
+}
+.secondb3{
+    height: 250px;
+    width: 400px;
+    background-color: pink; 
+}
+.thirdb3{
+    height: 250px;
+    width: 300px;
+    background-color: gray; 
+    text-align: center; 
+}
+.thirdb3 p{
+    font-size: 30px;
+    color: white;
+}
+.thirdb3 span{
+    font-size: 18px;
+}
+
+.fourthb3{
+    height: 250px;
+    width: 350px;
+    background-color: whitesmoke;   
+}
+.b4{
+    height: 250px;
+    width: 1200px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.firstb4{
+    height: 250px;
+    width: 150px;
+    background-color: gray;
+    border-bottom-left-radius: 30px;
+    text-align: center;
+}
+.firstb4 p{
+    font-size: 20px;
+    font-family: serif;
+    color: white;
+    font-weight: bold;
+}
+.secondb4{
+    height: 250px;
+    width: 400px;
+    background-color: greenyellow; 
+    background-image: url('images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+    background-size: cover;
+    text-align: center;
+}
+.secondb4 p{
+    font-size: 30px;
+    color: white;
+}
+.secondb4 span{
+    font-size: 18px;
+}
+.thirdb4{
+    height: 250px;
+    width: 300px;
+    background-color: blanchedalmond;  
+}
+.fourthb4{
+    height: 250px;
+    width: 350px;
+    background-color: gray; 
+    border-bottom-right-radius: 30px; 
+    text-align: center;  
+}
+.fourthb4 p{
+    font-size: 30px;
+    color: white;
+}
+.fourthb4 span{
+    font-size: 18px;
+}
+.plans{
+    height: 80px;
+    width: 450px;
+    /* background-color: yellow;  */
+    margin: 0 auto;
+    text-align: center;
+}
+.plans p{
+    font-size: 50px;
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+}
+.dottedbox{
+    height: 500px;
+    width: 1100px;
+    background-color:blanchedalmond;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.firstdottedbox{
+    height: 350px;
+    width: 500px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.earlybird{
+    height: 150px;
+    width: 480px;
+    /* background-color:green; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.onetwenty{
+    height: 120px;
+    width: 200px;
+    /* background-color:yellow;    */
+    margin-left: 30px;
+}
+.onetwenty p{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: serif;
+    
+}
+.onetwenty span{
+    font-size: 40px;
+    font-weight: bold; 
+}
+#span2{
+    font-size: 20px;
+    color: gray;
+    font-weight: lighter;
+}
+.p-30{
+    margin-top: -15px;
+}
+.circle{
+    height: 120px;
+    width: 120px;
+    background-color:orangered;
+    border-radius: 100%;
+    text-align: center;
+}
+.circle p{
+    font-size: 20px;
+    color: white;
+    font-family:  serif;
+}
+.circle span{
+    font-size: 40px;
+    font-weight: bold;
+}
+.platform{
+    height: 100px;
+    width: 480px;
+    /* background-color:red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+.adiv{
+    height: 100px;
+    width: 230px;
+    /* background-color:blue;   */
+}
+.adiv ul{
+    color: gray;
+}
+.anotherdiv{
+    height: 100px;
+    width: 230px;
+    /* background-color: green; */
+}
+.anotherdiv ul{
+    color: gray;
+}
+.buyticket{
+    height: 50px;
+    width: 200px;
+    background-color: whitesmoke;
+}
+.buyticket a{
+    color: orange;
+    border-bottom: 1px solid orange;
+    padding-bottom: 5px;
+    text-decoration: none;
+    
+}
+.buyticket a:hover{
+    color: brown;
+    border-bottom: none;
+    transition: .5;
+}
+.seconddottedbox{
+    height: 400px;
+    width: 550px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    border-style: dotted;
+    margin-top: 40px;
+}
+.interest{
+    height: 110px;
+    width: 500px;
+    /* background-color:grey; */
+    margin: 0 auto;
+    text-align: center;
+}
+.interest p{
+    font-size: 50px;
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+}
+.contactform{
+    height: 85px;
+    width: 500px;
+    background-color: skyblue;
+    border-radius: 40px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.firstcontact{
+    height: 70px;
+    width: 200px;
+    background-color:whitesmoke;
+    border-radius: 50px;
+    text-align: center;
+}
+.firstcontact p{
+    font-size: 25px;
+    color: goldenrod;
+    font-family: serif;
+    font-weight: bold;  
+}
+.secondcontact{
+    height: 70px;
+    width: 200px;
+    /* background-color:whitesmoke; */
+    border-radius: 20px;
+    text-align: center;
+}
+.secondcontact p{
+    font-size: 25px;
+    color: gray;
+    font-family: serif;
+    font-weight: bold;  
+}
+.blank6{
+    height: 50px;
+    width: 100%;
+    background-color:white; 
+}
+.information{
+    height: 500px;
+    width: 700px;
+    background-color:whitesmoke;
+    margin: 0 auto;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Fullnamebox{
+    height: 80px;
+    width: 700px;
+    /* background-color:skyblue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.Fullname{
+    height: 50px;
+    width: 320px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    border-style: solid;
+    
+}
+.email{
+    height: 50px;
+    width: 320px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    border-style: solid;
+}
+.company{
+    height: 50px;
+    width: 680px;
+    /* background-color:indianred; */
+    border-style: solid;
+    border-radius: 30px;
+}
+.message{
+    height: 100px;
+    width: 680px;
+    /* background-color:red; */
+    border-style: solid;
+    border-radius: 30px;
+}
+.sendmessage{
+    height: 50px;
+    width: 200px;
+    background-color:orangered;
+    border-radius: 40px;
+}
+.Fl{
+    height: 500px;
+    width: 100%;
+    background-color:indianred;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.flive{
+    height: 150px;
+    width: 100%;
+    background-color:orangered;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.flivee{
+    height: 100px;
+    width: 400px;
+    /* background-color:orange;   */
+}
+.flivee p{
+    font-size: 50px;
+    font-family: Times;
+    font-weight: bold;
+    color: white;
+}
+.smallcircles{
+    height: 50px;
+    width: 300px;
+    background-color:orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.smallcircle1{
+    height: 30px;
+    width: 40px;
+    background-color:white;
+}
+
+.links{
+    height: 200px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.li{
+    height: 100px;
+    width: 500px;
+    /* background-color:white; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.link{
+    height: 40px;
+    width: 200px;
+    /* background-color:red; */
+}
+.link p{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: serif;
+    color: yellow;
+}
+.homeandabout{
+    height: 50px;
+    width: 500px;
+    /* background-color:grey; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.haaspc{
+    height: 40px;
+    width: 80px;
+    /* background-color:black; */
+}
+.haaspc p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.haveaquestion{
+    height: 100px;
+    width: 250px;
+    /* background-color:white; */
+}
+.haveaquestion p{
+    font-size: 25px;
+    font-family: serif;
+    color: yellow; 
+    font-weight: bold;
+}
+.haveaquestion span{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.location{
+    height: 150px;
+    width: 350px;
+    /* background-color:white; */
+}
+.location p{
+    font-size: 25px;
+    font-family: serif;
+    color: yellow; 
+    font-weight: bold; 
+}
+.location span{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;     
+}
+.copyright{
+    height: 149px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.copyrightbox{
+    height: 70px;
+    width: 250px;
+    /* background-color:white; */
+    margin-left: 100px;
+   
+}
+.copyrightbox p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;   
+}
+.termsandconditions{
+    height: 100px;
+    width: 600px;
+    /* background-color:white; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 300px;
+}
+.privacypolicy{
+    height: 60px;
+    width: 180px;
+    /* background-color:red;  */
+    
+}
+.privacypolicy a{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;  
+    text-decoration: none;  
+}
+.privacypolicy a:hover{
+    color: brown;
+    border-bottom: none;
+    transition: .5;
+}
+
+.container{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#bg-vid{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+}
+input{
+    font-size: 18px;
+    padding-left: 10px;
+}
+.myImage img{
+    clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+}
